@@ -1,0 +1,23 @@
+﻿<====================     Process Started     ====================>
+19:08:29    Info    Killing Application    
+19:08:30    Info    Opening applications...    
+19:08:57    Info    Login success    
+19:08:57    Info    Initialize Success    
+19:08:57    Trace    Navigation Sucessful    
+
+
+19:08:58    Info    Processing for record 123    
+19:09:28    Info    Elapsed time : 29.5950622    
+
+
+19:09:28    Info    Processing for record T09708141219045101    
+19:10:20    Info    Elapsed time : 52.8170118    
+
+
+19:10:20    Info    Processing for record T17933051219044327    
+19:10:48    Info    Elapsed time : 27.257268    
+
+
+19:10:48    Info    Process finished due to no more transaction data    
+19:10:53    Info    Closing Applications    
+<====================     Process Ended     ====================>
